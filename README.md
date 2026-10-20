@@ -1,1 +1,9 @@
-A C# Windows Forms puzzle game developed in Visual Studio where strategy meets the Fibonacci sequence! Navigate through a grid, make smart moves, and achieve the highest possible score.   🌟 FeaturesEngaging Objective: Start with a score of 0 and navigate your way to the bottom-right corner of the grid.   Fibonacci Mechanics:Entering a tile for the first time with a number belonging to the Fibonacci sequence adds its value to your score.   Entering a non-Fibonacci tile for the first time subtracts its value from your score.   Revisiting Tiles: If you revisit a tile you have already explored, nothing happens to your score.   Smooth Controls: Simple and intuitive movement using the WASD keys (Up, Left, Down, Right) to move from one tile to an adjacent one.   Restart Option: Easily reset your game at any time using the built-in Restart button.   Endgame Summary: Upon completion, a final grid summary displays statistics including the total number of Fibonacci numbers visited versus non-Fibonacci numbers visited.   🚀 Built WithLanguage: C#   Environment: Visual Studio   
+A C# Windows Forms puzzle game developed in Visual Studio where strategy meets the Fibonacci sequence! Navigate through a grid, make smart moves, and achieve the highest possible score.   
+FeaturesEngaging Objective: Start with a score of 0 and navigate your way to the bottom-right corner of the grid.   
+Fibonacci Mechanics:
+Entering a tile for the first time with a number belonging to the Fibonacci sequence adds its value to your score.   
+Entering a non-Fibonacci tile for the first time subtracts its value from your score.   
+Revisiting Tiles: If you revisit a tile you have already explored, nothing happens to your score.   
+Smooth Controls: Simple and intuitive movement using the WASD keys (Up, Left, Down, Right) to move from one tile to an adjacent one.   
+Restart Option: Easily reset your game at any time using the built-in Restart button.   
+Endgame Summary: Upon completion, a final grid summary displays statistics including the total number of Fibonacci numbers visited versus non-Fibonacci numbers visited.   
