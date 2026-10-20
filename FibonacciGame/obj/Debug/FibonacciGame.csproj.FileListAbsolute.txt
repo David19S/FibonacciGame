@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\bin\Debug\FibonacciGame.exe.config
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\bin\Debug\FibonacciGame.exe
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\bin\Debug\FibonacciGame.pdb
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.Form1.resources
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.Properties.Resources.resources
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.csproj.GenerateResource.cache
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.exe
+C:\Users\David\source\repos\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.pdb
